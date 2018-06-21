@@ -1,0 +1,14 @@
+Handwritten Digit Recognition
+
+Downloads:
+https://cdn.upgrad.com/UpGrad/temp/7940b364-7140-4e70-b76d-b95034fecb67/SVM%20Dataset.rar
+
+Business Understanding
+
+A classic problem in the field of pattern recognition is that of handwritten digit recognition. The goal is to develop a model that can correctly identify the digit (between 0-9) written in an image. 
+
+ 
+Objective
+
+To develop a model using Support Vector Machine which should correctly classify the handwritten digits from 0-9 based on the pixel values given as features. Thus, this is a 10-class classification problem.
+
