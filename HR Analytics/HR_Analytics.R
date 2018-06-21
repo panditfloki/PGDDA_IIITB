@@ -1005,4 +1005,3 @@ Churn_decile = lift(test_actual_Attrition, test_pred, groups = 10)
 
 
 
-
