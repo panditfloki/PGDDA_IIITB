@@ -152,4 +152,3 @@ ggplot(media, aes(day, Views_show)) + geom_line(aes(colour = "blue" )) +
 ggplot(media, aes(day, error_model5)) + geom_line() + 
   scale_x_continuous(name = "days", breaks = seq(0,90,10), limits = c(0,84)) + 
   scale_y_continuous(name = "Error", breaks = seq(-250000,250000,50000), limits = c(-250000,250000)) + geom_hline(yintercept = 0)
-
