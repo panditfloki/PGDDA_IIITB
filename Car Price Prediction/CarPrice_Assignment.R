@@ -107,4 +107,3 @@ summary(carprice_final)
 # Check if the correlation matrix givessome insight.
 corrs = cor(carprice_final)
 View(corrs)
-
