@@ -1,10 +1,17 @@
+HR Analytics- Logistic Regression
+
+Downloads:
+https://cdn.upgrad.com/UpGrad/temp/c913c97e-059f-418e-b1d5-f7d9151c2dbd/PA-I_Case_Study_HR_Analytics.zip
+
+Problem Statement
+
 A large company named XYZ, employs, at any given point of time, around 4000 employees. However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own or because they got fired) is bad for the company, because of the following reasons -
 
-The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners
+    The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners
 
-A sizeable department has to be maintained, for the purposes of recruiting new talent
+    A sizeable department has to be maintained, for the purposes of recruiting new talent
 
-More often than not, the new employees have to be trained for the job and/or given time to acclimatise themselves to the company
+    More often than not, the new employees have to be trained for the job and/or given time to acclimatise themselves to the company
 
  
 
@@ -12,6 +19,6 @@ Hence, the management has contracted an HR analytics firm to understand what fac
 
  
 
-Since you are one of the star analysts at the firm, this project has been given to you.
+Goal of the case study:
 
-Modeled the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
+To model the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
